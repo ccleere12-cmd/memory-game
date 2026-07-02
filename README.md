@@ -71,7 +71,7 @@ Welcome to Memory!
 ## Project Structure
 
 ```
-memory-game/
+.
 ├── .gitattributes          # Git attributes configuration
 ├── .gitignore              # Git ignore rules
 ├── LICENSE                 # Project license

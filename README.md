@@ -71,12 +71,12 @@ Welcome to Memory!
 ## Project Structure
 
 ```
-.
+memory-game/
 ├── .gitattributes          # Git attributes configuration
 ├── .gitignore              # Git ignore rules
 ├── LICENSE                 # Project license
 ├── README.md               # Project documentation
-├── memory-game.py          # Main game script
+├── memory_game.py          # Main game script
 └── requirements.txt        # Python dependencies
 ```
 

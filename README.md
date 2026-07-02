@@ -48,7 +48,7 @@ D * * * * *
 
 2. Run the game:
    ```bash
-   python memory-game.py
+   python memory_game.py
    ```
 
 ## Example Menu

@@ -1,6 +1,6 @@
 # Memory Game
 
-A two-player terminal-based memory matching game written in Python. Test your memory skills by matching pairs of symbols on a 4x5 grid and compete to score the most points.
+A two-player terminal-based memory matching game written in Python. Test your memory skills by matching pairs of symbols on a 4x5 grid as you compete to score the most points.
 
 ## Features
 
